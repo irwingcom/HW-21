@@ -1,5 +1,9 @@
 body {
-    background-image: url(/img/canvas.jpg);
+    background-image: url(/HW-21/img/canvas.jpg);
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: center;
+    
 }
 a {
     text-decoration: none;
